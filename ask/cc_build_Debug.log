@@ -1,0 +1,11 @@
+------------------------------  ask.pjt - Debug  ------------------------------
+[c6713dskinit.c] "C:\CCStudio_v3.1\C6000\cgtools\bin\cl6x" -g -fr"C:/CCStudio_v3.1/MyProjects/ask/Debug" -i"C:/CCStudio_v3.1/C6000/dsk6713/include" -d"CHIP_6713" -mv6710 --mem_model:data=far -@"../MyProjects/ask/Debug.lkf" "c6713dskinit.c"
+
+[ask.c] "C:\CCStudio_v3.1\C6000\cgtools\bin\cl6x" -g -fr"C:/CCStudio_v3.1/MyProjects/ask/Debug" -i"C:/CCStudio_v3.1/C6000/dsk6713/include" -d"CHIP_6713" -mv6710 --mem_model:data=far -@"Debug.lkf" "ask.c"
+"ask.c", line 46: warning: last line of file ends without a newline
+
+[Linking...] "C:\CCStudio_v3.1\C6000\cgtools\bin\cl6x" -@"Debug.lkf"
+<Linking>
+
+Build Complete,
+  0 Errors, 1 Warnings, 0 Remarks.

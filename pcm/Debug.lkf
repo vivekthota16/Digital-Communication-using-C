@@ -1,0 +1,7 @@
+-z -c -m"./Debug/pcm.map" -o"./Debug/pcm.out" -stack0x1000 -w -x -i"C:/CCStudio_v3.1/C6000/dsk6713/lib" -i"C:/CCStudio_v3.1/C6000/rtdx/lib" -i"C:/CCStudio_v3.1/C6000/csl/lib" -i"C:/CCStudio_v3.1/C6000/xdais/lib" -i"C:/CCStudio_v3.1/C6000/bios/lib" -i"C:/CCStudio_v3.1/C6000/cgtools/lib" -l"rts6700.lib" -l"dsk6713bsl.lib" -l"csl6713.lib"
+"C:\CCStudio_v3.1\support\c6713dsk.cmd"
+"C:\CCStudio_v3.1\MyProjects\pcm\Debug\c6713dskinit.obj"
+"C:\CCStudio_v3.1\MyProjects\pcm\Debug\pcm.obj"
+"C:\CCStudio_v3.1\support\csl6713.lib"
+"C:\CCStudio_v3.1\support\dsk6713bsl.lib"
+"C:\CCStudio_v3.1\support\rts6700.lib"

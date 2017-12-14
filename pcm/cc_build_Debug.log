@@ -1,0 +1,10 @@
+------------------------------  pcm.pjt - Debug  ------------------------------
+[c6713dskinit.c] "C:\CCStudio_v3.1\C6000\cgtools\bin\cl6x" -g -fr"C:/CCStudio_v3.1/MyProjects/pcm/Debug" -i"C:/CCStudio_v3.1/C6000/dsk6713/include" -d"CHIP_6713" -mv6710 --mem_model:data=far -@"../MyProjects/pcm/Debug.lkf" "c6713dskinit.c"
+
+[pcm.c] "C:\CCStudio_v3.1\C6000\cgtools\bin\cl6x" -g -fr"C:/CCStudio_v3.1/MyProjects/pcm/Debug" -i"C:/CCStudio_v3.1/C6000/dsk6713/include" -d"CHIP_6713" -mv6710 --mem_model:data=far -@"Debug.lkf" "pcm.c"
+
+[Linking...] "C:\CCStudio_v3.1\C6000\cgtools\bin\cl6x" -@"Debug.lkf"
+<Linking>
+
+Build Complete,
+  0 Errors, 0 Warnings, 0 Remarks.
